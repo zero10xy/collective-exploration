@@ -2,7 +2,7 @@
 
 Hi all
 
-welcome to collective-explortion
+welcome to collective-exploration
 
 It's a GitHub open-source public repo for Discord server community [Devs for hire & Jobs] for collective exploration, experiments, and collaboration.
 
