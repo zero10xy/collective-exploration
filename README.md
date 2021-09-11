@@ -21,6 +21,10 @@ create new folder and add your first project there - can write "hello world" wit
 
 https://zero10xy.github.io/collective-exploration/RedstoneRadiant/
 
+[https://zero10xy.github.io/collective-exploration/RedstoneRadiant/](https://zero10xy.github.io/collective-exploration/RedstoneRadiant/)
+
+[https://zero10xy.github.io/collective-exploration/RedstoneRadiant/](/RedstoneRadiant/)
+
 [An Internal Link](/RedstoneRadiant/)
 
 https://zero10xy.github.io/collective-exploration/Zero1/
