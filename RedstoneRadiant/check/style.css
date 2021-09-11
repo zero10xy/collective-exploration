@@ -19,6 +19,9 @@ body {
  max-height: 800px;
  overflow: auto;
  font-family: 'Poppins', sans-serif;
+ display:flex;
+ justify-content:center;
+ align-items:center;
 }
 
 a {
