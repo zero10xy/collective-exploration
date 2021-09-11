@@ -18,5 +18,7 @@ The GitHub page site is published at https://zero10xy.github.io/collective-explo
 create new folder and add your first project there - can write "hello world" with your bio, and it will be added to the main page.
 
 #project exmaples:
+
 https://zero10xy.github.io/collective-exploration/RedstoneRadiant/
+
 https://zero10xy.github.io/collective-exploration/Zero1/
