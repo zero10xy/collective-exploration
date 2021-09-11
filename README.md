@@ -12,6 +12,7 @@ link: [https://discord.gg/awHZtSf89q](https://discord.gg/awHZtSf89q)
 
 The GitHub page site is published at [https://zero10xy.github.io/collective-exploration/](https://zero10xy.github.io/collective-exploration/)
 
+[View on GitHub](https://github.com/zero10xy/collective-exploration)
 
 # add your folder
 
