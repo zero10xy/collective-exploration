@@ -8,9 +8,9 @@ This is a GitHub open-source public repo for our  community Discord server: [Dev
 
 Feel free to open a pull request to submit any of your projects.
 
-link: https://discord.gg/awHZtSf89q
+link: [https://discord.gg/awHZtSf89q](https://discord.gg/awHZtSf89q)
 
-The GitHub page site is published at https://zero10xy.github.io/collective-exploration/
+The GitHub page site is published at [https://zero10xy.github.io/collective-exploration/](https://zero10xy.github.io/collective-exploration/)
 
 
 # add your folder
@@ -19,12 +19,6 @@ create new folder and add your first project there - can write "hello world" wit
 
 # project exmaples
 
-https://zero10xy.github.io/collective-exploration/RedstoneRadiant/
-
 [https://zero10xy.github.io/collective-exploration/RedstoneRadiant/](https://zero10xy.github.io/collective-exploration/RedstoneRadiant/)
 
-[https://zero10xy.github.io/collective-exploration/RedstoneRadiant/](/RedstoneRadiant/)
-
-[An Internal Link](/RedstoneRadiant/)
-
-https://zero10xy.github.io/collective-exploration/Zero1/
+[https://zero10xy.github.io/collective-exploration/Zero1/](https://zero10xy.github.io/collective-exploration/Zero1/)
