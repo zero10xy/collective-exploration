@@ -18,7 +18,7 @@ The GitHub page site is published at: [https://zero10xy.github.io/collective-exp
 
 View on GitHub: [https://github.com/zero10xy/collective-exploration](https://github.com/zero10xy/collective-exploration)
 
-# add your folder
+# add your project folder
 
 create new folder and add your first project there - can write "hello world" with your bio, and it will be added to the main page.
 
@@ -29,3 +29,7 @@ create new folder and add your first project there - can write "hello world" wit
 * [https://zero10xy.github.io/collective-exploration/RedstoneRadiant/](https://zero10xy.github.io/collective-exploration/RedstoneRadiant/)
 
 * [https://zero10xy.github.io/collective-exploration/Zero1/](https://zero10xy.github.io/collective-exploration/Zero1/)
+
+# we are open for new ideas
+
+welcome to be cretive, this is a space of exploration, experiments, and collaboration.
