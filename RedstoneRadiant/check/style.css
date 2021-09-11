@@ -19,6 +19,7 @@ body {
  max-height: 800px;
  overflow: auto;
  font-family: 'Poppins', sans-serif;
+ text-align: center;
 }
 
 a {
