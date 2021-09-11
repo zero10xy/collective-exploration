@@ -8,11 +8,11 @@ This is a GitHub open-source public repo for our  community Discord server: [Dev
 
 Feel free to open a pull request to submit any of your projects.
 
-link: [https://discord.gg/awHZtSf89q](https://discord.gg/awHZtSf89q)
+Discord server community link: [https://discord.gg/awHZtSf89q](https://discord.gg/awHZtSf89q)
 
-The GitHub page site is published at [https://zero10xy.github.io/collective-exploration/](https://zero10xy.github.io/collective-exploration/)
+The GitHub page site is published at: [https://zero10xy.github.io/collective-exploration/](https://zero10xy.github.io/collective-exploration/)
 
-[View on GitHub](https://github.com/zero10xy/collective-exploration)
+View on GitHub: [https://github.com/zero10xy/collective-exploration](https://github.com/zero10xy/collective-exploration)
 
 # add your folder
 
