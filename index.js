@@ -6,7 +6,7 @@
     for (let i = 0; i < files.length; i++) {
       let path = files[i]['path']
       if (path.includes('/') && path.toLowerCase().endsWith(".html")){
-        document.body.innerHTML += "<a href=https://zero10xy.github.io/collective-exploration/" + path + ">" + path + "</a><br>"
+        document.getElementById('links').innerHTML += "<a href=https://zero10xy.github.io/collective-exploration/" + path + ">" + path + "</a><br>"
       }
     }
     }
