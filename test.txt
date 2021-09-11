@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 Hello, ZeroOne!
 This is steve's first commit message!
+=======
+test 123
+test 321
+test bill steve
+test redstoneradiant
+>>>>>>> 332a4d39f7ad6f2d9449b1023d21dcad7b42cd02
