@@ -32,6 +32,8 @@ Create new folder and add your first project there - can write "hello world" wit
 
 * [https://zero10xy.github.io/collective-exploration/RedstoneRadiant/check/](https://zero10xy.github.io/collective-exploration/RedstoneRadiant/check/)
 
+* [https://zero10xy.github.io/collective-exploration/Alex-Zheng/](https://zero10xy.github.io/collective-exploration/Alex-Zheng/)
+
 # We are open for new ideas
 
 Welcome to be creative.
