@@ -26,7 +26,7 @@ View on GitHub: [https://github.com/zero10xy/collective-exploration](https://git
 
 Create new folder and add your first project there - can write "hello world" with your bio, and it will be added to the main page.
 
-# Project exmaples
+# Project List:
 
 * [https://zero10xy.github.io/collective-exploration/arafat13495/](https://zero10xy.github.io/collective-exploration/arafat13495/)
 
