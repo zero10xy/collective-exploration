@@ -1,6 +1,6 @@
 # Collective-Exploration
 
-Hello!
+Hello! :)
 
 Welcome to collective-exploration.
 
