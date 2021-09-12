@@ -1,2 +1,0 @@
-# Simple Hello World page
-
