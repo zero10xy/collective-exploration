@@ -16,7 +16,7 @@ Feel free to open a pull request to submit any of your projects.
 
 # Add your project folder in GitHub
 
-Create new folder and add your first project there - can write "hello world" with your bio, and it will be added to the main page.
+Create new folder and add your first project there - can write "hello world" with your bio, then send pull request, and it will be added to the main page with projects list.
 
 View on GitHub: [https://github.com/zero10xy/collective-exploration](https://github.com/zero10xy/collective-exploration)
 
@@ -24,7 +24,7 @@ View on GitHub: [https://github.com/zero10xy/collective-exploration](https://git
 
 The GitHub page site is published at: [https://zero10xy.github.io/collective-exploration/](https://zero10xy.github.io/collective-exploration/)
 
-# Project List:
+# Projects List:
 
 * [https://zero10xy.github.io/collective-exploration/arafat13495/](https://zero10xy.github.io/collective-exploration/arafat13495/)
 
