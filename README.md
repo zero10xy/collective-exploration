@@ -32,6 +32,8 @@ The GitHub page site is published at: [https://zero10xy.github.io/collective-exp
 
 * [https://zero10xy.github.io/collective-exploration/RedstoneRadiant/](https://zero10xy.github.io/collective-exploration/RedstoneRadiant/)
 
+* [https://zero10xy.github.io/collective-exploration/SLE/](https://zero10xy.github.io/collective-exploration/SLE/)
+
 * [https://zero10xy.github.io/collective-exploration/billsteve/](https://zero10xy.github.io/collective-exploration/billsteve/)
 
 * [https://zero10xy.github.io/collective-exploration/Alex-Zheng/](https://zero10xy.github.io/collective-exploration/Alex-Zheng/)
