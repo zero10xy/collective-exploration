@@ -2,7 +2,7 @@
 
 Hello! :)
 
-Welcome to collective-exploration !!!
+Welcome to collective-exploration!
 
 # Description
 
